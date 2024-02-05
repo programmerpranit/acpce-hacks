@@ -5,7 +5,7 @@ const Characteristics = (): JSX.Element => {
   return (
     <>
       <div
-        className="flex flex-col md:flex-row my-20 items-baseline
+        className="flex flex-col md:flex-row my-20 py-10 items-baseline
        max-w-7xl m-auto"
       >
         <Characteristic
